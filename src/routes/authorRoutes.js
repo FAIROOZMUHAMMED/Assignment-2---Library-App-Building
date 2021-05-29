@@ -7,7 +7,7 @@ function router(nav){
         {
             name: 'Joseph Barbera',
             nationality: 'American',
-            img: "jBarbera1.jpg",
+            img: "JBarbera1.jpg",
             details:'He was born to Italian immigrants in New York City, where he lived, attended college and began his career through his young adult years. After working odd jobs and as a banker, Barbera joined Van Beuren Studios in 1927 and subsequently Terrytoons in 1929. In 1930, he moved to California and while working at Metro-Goldwyn-Mayer (MGM), Barbera met William Hanna. The two men began a collaboration that was at first best known for producing Tom and Jerry. In 1957, after MGM dissolved their animation department, they co-founded Hanna-Barbera, which became the most successful television animation studio in the business, producing programs such as The Flintstones, Yogi Bear, Scooby-Doo, Top Cat, The Smurfs, Huckleberry Hound, and The Jetsons. In 1967, Hanna-Barbera was sold to Taft Broadcasting for $12 million, but Hanna and Barbera remained heads of the company. In 1991, the studio was sold to Turner Broadcasting System,[2] which in turn was merged with Time Warner, owners of Warner Bros., in 1996; Hanna and Barbera stayed on as advisors.'
         },
         {
